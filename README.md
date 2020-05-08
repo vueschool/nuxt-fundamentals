@@ -22,7 +22,7 @@ After this course, you will be familiar with:
 - Building and deploying a Nuxt.js App
 - How to deploy your apps to Heroku and Netlify
 
-This course is made **together** with core member **Alexander Lichter**.
+This course is made **together** with Nuxt.js core member **Alexander Lichter**.
 
 The course is free. [Enroll at Vue School!](https://vueschool.io/courses/nuxtjs-fundamentals)
 
